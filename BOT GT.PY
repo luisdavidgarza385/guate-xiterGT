@@ -64,7 +64,7 @@ level = defaultdict(int)
 spam = defaultdict(list)
 join_tracker = []
 
-LOG_CHANNEL_ID = 1500703841518223375
+LOG_CHANNEL_ID = 1454399890405851198
 
 # =========================
 # STATUS BOT
